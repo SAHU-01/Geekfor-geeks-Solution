@@ -1,0 +1,10 @@
+/***
+JAVA
+Write a hello world program without any input
+***/
+Class solution{
+static void hello()
+{
+System.out.println("Hello world");
+}
+}
